@@ -1,6 +1,6 @@
-# ng-book 2: Simple Reddit-like App
+# Inventory App
 
-> A simple voting app that resembles a minimal-reddit link voting app in Angular 2.
+> An Angular 2 inventory app
 
 ## Dependencies
 
