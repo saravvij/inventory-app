@@ -1,6 +1,6 @@
 # Inventory App
 
-> An Angular 2 inventory app
+> An Angular 2 inventory app to work on.
 
 ## Dependencies
 
