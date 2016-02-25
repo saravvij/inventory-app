@@ -6,7 +6,7 @@ import {bootstrap} from 'angular2/platform/browser';
   template: `
     <div>Hello World!</div>
   `
-})
+}) 
 
 class RedditApp   {
 
